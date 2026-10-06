@@ -18,12 +18,12 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=claudio-oumar&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
+## ⚡ About Me
 
 ```typescript
 const claudio_oumar: Developer = {
-  name:      "claudio-oumar",
-  role:      "Frontend or full-stack engineer",
+  name:      "Claudio",
+  role:      "Software Engineering student.",
   location:  "Building from the open web",
   currently: "building in public",
   stack:     ["C++", "C", "TypeScript", "HTML", "Java", "CSS"],
